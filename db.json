@@ -13,9 +13,9 @@
       "reminder": false
     },
     {
-      "text": "a",
-      "day": "a",
-      "reminder": false,
+      "text": "Dinne Reservation",
+      "day": "May 15th at 6:30pm",
+      "reminder": true,
       "id": 4
     }
   ]
